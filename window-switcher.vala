@@ -155,7 +155,7 @@ namespace Synapse
       {
         Object (title: title,
                 description: "window '" + title + "'",
-                has_thumbnail: false, icon_name: "system-run",
+                has_thumbnail: false, icon_name: "window-new",
                 windowId: windowId);
       }
     }
